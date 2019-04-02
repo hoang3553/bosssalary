@@ -1,7 +1,8 @@
 version: '2'
 
 volumes:
-
+  node_modules:
+    
 services:
   node:
     restart: always
